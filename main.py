@@ -63,8 +63,8 @@ for doc in docs:
 # =============================================================================
     
 # Store the embeddings in a upstash vector
-UPSTASH_Vector_Rest_URL = "https://skilled-dassie-99724-us1-vector.upstash.io"
-UPSTASH_Vector_Rest_Token = "ABgFMHNraWxsZWQtZGFzc2llLTk5NzI0LXVzMWFkbWluWmpVelkyVXpZVGd0WWpBMk1TMDBOR1kxTFRrek0yWXRNMk01WmpFMFltUXdPV1l3"
+UPSTASH_Vector_Rest_URL = "Your own URL of upstash vector"
+UPSTASH_Vector_Rest_Token = "Your own Token of upstash vector"
 
 vectors = []
 
